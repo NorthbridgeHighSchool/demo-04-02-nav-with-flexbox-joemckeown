@@ -1,3 +1,17 @@
 img {
   max-width: 400px;
 }
+nav ul{
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding-left: 0;
+}
+nav li{
+margin-left:20px;
+}
+nav a link{
+a-hover: #ff0000
+
+}
